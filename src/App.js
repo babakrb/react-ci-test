@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome to my Test</h1>
-       
+       <h2 color='red'>This is a simple React app</h2>
+     
       </header>
     </div>
   );
